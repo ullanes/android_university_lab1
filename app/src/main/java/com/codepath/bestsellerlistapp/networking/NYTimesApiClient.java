@@ -25,7 +25,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class NYTimesApiClient {
 
     // TODO: Replace the below API key with your own generated key
-    private static final String API_KEY = "<YOUR-API-KEY-GOES-HERE>";
+    private static final String API_KEY = "rqG0gD51WCeSNQl53A7AbOueJtQ8f3PD";
     private NYTimesService nyTimesService;
 
     public NYTimesApiClient() {
